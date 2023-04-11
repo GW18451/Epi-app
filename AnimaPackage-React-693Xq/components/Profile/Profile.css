@@ -1,0 +1,193 @@
+.profile {
+  align-items: center;
+  background-color: var(--mirage);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.top-navigation-2 {
+  align-items: center;
+  display: flex;
+  gap: 61px;
+  height: 44px;
+  margin-right: 14.0px;
+  margin-top: 18px;
+  min-width: 276px;
+  position: relative;
+}
+
+.profile-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  min-height: 30px;
+  min-width: 66px;
+  text-align: center;
+}
+
+.image-26 {
+  height: 136px;
+  margin-left: 1.0px;
+  margin-top: 18px;
+  object-fit: cover;
+  width: 117px;
+}
+
+.overlap-group2-3 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 146px;
+  justify-content: flex-end;
+  margin-right: 7.0px;
+  margin-top: 36px;
+  min-width: 315px;
+  padding: 1px 0;
+}
+
+.bibliography-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 143px;
+  width: 308px;
+}
+
+.overlap-group1-3 {
+  align-self: flex-start;
+  height: 347px;
+  margin-left: -115px;
+  margin-top: 17px;
+  position: relative;
+  width: 549px;
+}
+
+.ellipse-9-1 {
+  height: 70px;
+  left: 407px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 277px;
+  width: 70px;
+}
+
+.overlap-group-1 {
+  height: 256px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 539px;
+}
+
+.ellipse-10-3 {
+  background-color: var(--persian-indigo);
+  border-radius: 100px;
+  filter: blur(200px);;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.ellipse-11-6 {
+  background-color: var(--lipstick);
+  border-radius: 100px;
+  filter: blur(200px);;
+  height: 200px;
+  left: 164px;
+  position: absolute;
+  top: 56px;
+  width: 200px;
+}
+
+.ellipse-11-7 {
+  background-color: var(--bright-turquoise);
+  border-radius: 100px;
+  filter: blur(200px);;
+  height: 200px;
+  left: 339px;
+  position: absolute;
+  top: 47px;
+  width: 200px;
+}
+
+.seizure-rate-per-month {
+  left: 142px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+}
+
+.heart-rate {
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+}
+
+.glucose-level {
+  left: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 134px;
+}
+
+.age {
+  left: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 175px;
+}
+
+.weight {
+  left: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 216px;
+  width: 53px;
+}
+
+.text-4 {
+  left: 422px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 292px;
+  width: 42px;
+}
+
+.medical-statistics {
+  left: 215px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 204px;
+}
+
+.height {
+  left: 147px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 288px;
+}
+

@@ -1,0 +1,147 @@
+.guest-1 {
+  align-items: center;
+  background-color: var(--mirage);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.top-navigation-1 {
+  align-items: center;
+  display: flex;
+  gap: 61px;
+  height: 44px;
+  margin-right: 19.0px;
+  margin-top: 18px;
+  min-width: 271px;
+  position: relative;
+}
+
+.guest-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  min-height: 30px;
+  min-width: 61px;
+  text-align: center;
+}
+
+.image-25 {
+  height: 86px;
+  margin-right: 25.0px;
+  margin-top: 92px;
+  object-fit: cover;
+  width: 245px;
+}
+
+.overlap-group3-2 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  margin-right: 4.0px;
+  margin-top: 16px;
+  min-width: 278px;
+  padding: 1px 3px;
+}
+
+.email-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 50px;
+  width: 268px;
+}
+
+.overlap-group2-2 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  margin-right: 4.0px;
+  margin-top: 46px;
+  min-width: 278px;
+  padding: 1px 0;
+}
+
+.full-name {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 50px;
+  width: 273px;
+}
+
+.overlap-group1-2 {
+  align-self: flex-start;
+  height: 314px;
+  margin-left: -115px;
+  margin-top: 34px;
+  position: relative;
+  width: 539px;
+}
+
+.ellipse-9 {
+  height: 70px;
+  left: 407px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 244px;
+  width: 70px;
+}
+
+.ellipse-container-1 {
+  height: 256px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 539px;
+}
+
+.ellipse-10-2 {
+  background-color: var(--persian-indigo);
+  border-radius: 100px;
+  filter: blur(200px);;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.ellipse-11-4 {
+  background-color: var(--lipstick);
+  border-radius: 100px;
+  filter: blur(200px);;
+  height: 200px;
+  left: 164px;
+  position: absolute;
+  top: 56px;
+  width: 200px;
+}
+
+.ellipse-11-5 {
+  background-color: var(--bright-turquoise);
+  border-radius: 100px;
+  filter: blur(200px);;
+  height: 200px;
+  left: 339px;
+  position: absolute;
+  top: 47px;
+  width: 200px;
+}
+
+.next-1 {
+  left: 422px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 259px;
+  width: 42px;
+}
+

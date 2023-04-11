@@ -1,0 +1,197 @@
+.reservation {
+  align-items: center;
+  background-color: var(--mirage);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 11.0px;
+  margin-top: 147px;
+  min-height: 106px;
+  text-align: center;
+  width: 243px;
+}
+
+.overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  margin-left: 8.0px;
+  margin-top: 86px;
+  min-width: 314px;
+  padding: 19px 72px;
+}
+
+.login-information {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 169px;
+}
+
+.overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  margin-left: 8.0px;
+  margin-top: 49px;
+  min-width: 314px;
+  padding: 15px 117px;
+}
+
+.sign-in {
+  height: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 77px;
+}
+
+.overlap-group2 {
+  align-items: center;
+  background-color: var(--alto);
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  margin-left: 8.0px;
+  margin-top: 49px;
+  min-width: 314px;
+  padding: 0 125px;
+}
+
+.guest {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 28px;
+  text-align: center;
+  width: 64px;
+}
+
+.to-pair-with-phone-login-here {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 29px;
+  min-height: 18px;
+  text-align: center;
+  width: 315px;
+}
+
+.tab-bar {
+  align-items: flex-start;
+  display: flex;
+  height: 112px;
+  justify-content: flex-end;
+  margin-left: 2.0px;
+  margin-top: 83px;
+  min-width: 390px;
+}
+
+.overlap-group1 {
+  height: 256px;
+  margin-top: -96px;
+  position: relative;
+  width: 539px;
+}
+
+.ellipse-container {
+  height: 256px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 539px;
+}
+
+.ellipse-10 {
+  background-color: var(--persian-indigo);
+  border-radius: 100px;
+  filter: blur(200px);;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.ellipse-11 {
+  background-color: var(--lapis-lazuli);
+  border-radius: 100px;
+  filter: blur(200px);;
+  height: 200px;
+  left: 164px;
+  position: absolute;
+  top: 56px;
+  width: 200px;
+}
+
+.ellipse-11-1 {
+  background-color: var(--brilliant-rose);
+  border-radius: 100px;
+  filter: blur(200px);;
+  height: 200px;
+  left: 339px;
+  position: absolute;
+  top: 47px;
+  width: 200px;
+}
+
+.base {
+  background-color: var(--white-4);
+  border-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0)) 1;
+  border-radius: 0px 0px 50px 50px;
+  height: 90px;
+  left: 74px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 118px;
+  width: 390px;
+}
+
+.icons {
+  height: 24px;
+  left: 101px;
+  position: absolute;
+  top: 140px;
+  width: 336px;
+}
+
+.home-indicator {
+  background-color: var(--white);
+  border-radius: 100px;
+  height: 5px;
+  left: 202px;
+  position: absolute;
+  top: 195px;
+  width: 134px;
+}
+
+.ticket-button {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  box-shadow: 0px 10px 20px #00000040;
+  display: flex;
+  height: 80px;
+  left: 229px;
+  min-width: 80px;
+  padding: 28.6px;
+  position: absolute;
+  top: 101px;
+}
+
+.ticket {
+  height: 23px;
+  width: 23px;
+}
+
